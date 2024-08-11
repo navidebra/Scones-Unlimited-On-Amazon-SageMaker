@@ -51,11 +51,11 @@ The project focuses on developing an image classification machine learning model
 
 #### 3.2.1. Execution Flow of the Step Function 
 
-![Step Functions Flow](Step Function Flow.png)
+![Step Functions Flow](Step-Function-Flow.png)
 
 #### 3.2.2. Step Function Graph
 
-![Step Functions Graph](Step Function Screenshot.png)
+![Step Functions Graph](Step-Function-Screenshot.png)
 
 ## License
 
