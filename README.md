@@ -16,7 +16,7 @@ This project was being done as a part of the Udacity and AWS AI/ML Engineer Scho
 
 **2. `Lambda.py script`:** This file contains the scripts for three AWS Lambda functions used to create a Step Functions workflow. Each script includes a lambda_handler function, which serves as the entry point for the Lambda function when triggered by an event. The lambda_handler function processes the incoming event and context, executes the main logic of the function—such as interacting with other AWS services, performing calculations, or processing data—and returns a response to the service or client that initiated the Lambda function.<br><br>
 
-**3. `Step Function Screenshot.png`:** Screenshot of functioning Step Functions workflow.<br><br>
+**3. `Step Function Screenshot.png`:** Screenshot of Step Functions workflow.<br><br>
 
 **4. `Step-Function-Definition.json`:** JSON exported Step Function<br><br>
 
